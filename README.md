@@ -68,9 +68,10 @@ This endpoint can be used to search and analyse different tweets already present
 ```
 ## API 3 (Download Results as a CSV)
 
+```
 endpoint - /download/getresults?<arguments>
 
 This endpoint works exactly like API 2 but instead of having the results displayed on the webpage, it downloads a CSV file containing the results. All the arguments and formats remain same as API 2.
-
+```
 
 
