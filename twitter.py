@@ -18,10 +18,10 @@ from flask import make_response
 
 # Twitter developer keys and tokens which you can get from developers.twitter.com
 
-consumer_key = 'gHbwzXgG2hNyf79kO5qJifSzj'
-consumer_secret = 'BEpQ3mEwhBQ0zK98dApYmf4dN12jIhNirqMiUJu409WavfBIZg'
-access_token = '1049599176743444480-YSGGr5IhkjWo8CtKJNnAufzx63D3g5'
-access_token_secret = '5gvfailTgk4upmU7cJkPy9Bwudc9RBTc552t5JMQiDqGS' 
+consumer_key = 'XYXYXYXY'
+consumer_secret = 'XYXYXYXYXYXYXYXY'
+access_token = 'XYXYXYXYXYXYXYXY'
+access_token_secret = 'XYXYXYXYXYXYXYXY' 
 
 
 auth = OAuthHandler(consumer_key, consumer_secret)
